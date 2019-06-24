@@ -1,0 +1,38 @@
+ .wrap h1{
+      padding-top: 10px;
+      font-size: 40px;
+}
+
+.top {
+      display: inline;
+      padding: 20px;      
+}
+/* Style all font awesome icons */
+
+.fa {
+	font-size: 100px;
+	padding: 100px;
+   width: 100px;
+   text-align: center;
+   margin: 20px 20px;
+
+
+}
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: red;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: yellow;
+  color: white;
+}
